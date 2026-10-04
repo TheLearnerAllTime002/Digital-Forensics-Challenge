@@ -1,0 +1,29 @@
+# Local challenge inputs and generated output
+data/
+local_data/
+.local_archive/
+challenge1_screenshots/
+challenge2_screenshots/
+challenge3_output/
+challenge3_screenshots/
+*.wav
+*.zip
+*.pf
+*.exe
+*.dll
+*.dat
+*.csv
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
